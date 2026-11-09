@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_CN\n"
+"Project-Id-Version: wifi.koplugin\n"
+"PO-Revision-Date: 2026-11-09 00:00+0800\n"
+"Last-Translator: wifi.koplugin\n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add network"
+msgstr "添加网络"
+
+msgid "An operation is already running."
+msgstr "已有操作正在进行。"
+
+msgid "CA certificate (system certificate identifier)"
+msgstr "CA 证书（系统证书标识）"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel waiting"
+msgstr "取消等待"
+
+msgid "Check the network name and required credentials."
+msgstr "请检查网络名称及必填凭据。"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Connecting…"
+msgstr "正在连接……"
+
+msgid "Connection details"
+msgstr "连接详情"
+
+msgid "DNS server"
+msgstr "DNS 服务器"
+
+msgid "Delete this network from Kindle system settings?"
+msgstr "从 Kindle 系统设置中删除此网络？"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Edit credentials"
+msgstr "编辑凭据"
+
+msgid "Enter valid IPv4 addresses."
+msgstr "请输入有效的 IPv4 地址。"
+
+msgid "Forget network"
+msgstr "忘记网络"
+
+msgid "Gateway"
+msgstr "网关"
+
+msgid "Hidden network"
+msgstr "隐藏网络"
+
+msgid "IP address"
+msgstr "IP 地址"
+
+msgid "Identity"
+msgstr "身份"
+
+msgid "Wi-Fi management"
+msgstr "Wi-Fi 管理"
+
+msgid "Manage Kindle Wi-Fi networks in KOReader."
+msgstr "在 KOReader 中管理 Kindle 无线网络。"
+
+msgid "Nearby networks"
+msgstr "附近网络"
+
+msgid "Network name"
+msgstr "网络名称"
+
+msgid "No networks found."
+msgstr "未发现网络。"
+
+msgid "Not connected"
+msgstr "未连接"
+
+msgid "Open"
+msgstr "开放网络"
+
+msgid "Operation failed:"
+msgstr "操作失败："
+
+msgid "Password"
+msgstr "密码"
+
+msgid "SSID"
+msgstr "SSID"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save and connect"
+msgstr "保存并连接"
+
+msgid "Saved networks"
+msgstr "已保存网络"
+
+msgid "Saving network…"
+msgstr "正在保存网络……"
+
+msgid "Scanning…"
+msgstr "正在扫描……"
+
+msgid "Security type"
+msgstr "安全类型"
+
+msgid "Static IPv4"
+msgstr "静态 IPv4"
+
+msgid "Subnet mask"
+msgstr "子网掩码"
+
+msgid "Switch networks or turn Wi-Fi off before forgetting the connected network."
+msgstr "请先切换网络或关闭 Wi-Fi，再忘记当前网络。"
+
+msgid "Timed out. The system operation may still finish; check the network status."
+msgstr "等待超时。系统操作可能仍在进行，请检查网络状态。"
+
+msgid "Turn Wi-Fi on first."
+msgstr "请先开启 Wi-Fi。"
+
+msgid "Wi-Fi off"
+msgstr "关闭 Wi-Fi"
+
+msgid "Wi-Fi on"
+msgstr "开启 Wi-Fi"
+
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Turning Wi-Fi on…"
+msgstr "正在开启 Wi-Fi……"
+
+msgid "No networks found. Tap Refresh."
+msgstr "未发现网络，请点击刷新。"
+
+msgid "Wi-Fi is off"
+msgstr "Wi-Fi 已关闭"
+
+msgid "No networks found. Reopen to scan again."
+msgstr "未发现网络，请重新打开以扫描。"
+
+msgid "Known networks"
+msgstr "已知网络"
+
+msgid "Other networks"
+msgstr "其他网络"
+
+msgid "Delete network"
+msgstr "删除网络"
+
+msgid "Modify network"
+msgstr "修改网络"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Connection failed. Check the password and network settings."
+msgstr "连接失败，请检查密码和网络设置。"
+
+msgid "This network requires a web login."
+msgstr "此网络需要网页登录认证。"
+
+msgid "Connected to Wi-Fi, but no IP address was obtained."
+msgstr "已连接 Wi-Fi，但未获取到 IP 地址。"
+
+msgid "Deleting network…"
+msgstr "正在删除网络……"
+
+msgid "Network settings were rejected:"
+msgstr "网络配置被拒绝："
+
+msgid "Saved network. Enter a new password."
+msgstr "已保存的网络，请输入新密码。"
